@@ -16,6 +16,7 @@
   - [logstash-output-pulsar](https://github.com/streamnative/logstash-output-pulsar)
 
 - 🪶 My roles in the Apache Software Foundation
+  - [Apache Servicecomb](https://github.com/apache/servicecomb-java-chassis.git) Committer
   - [Apache Pulsar](https://github.com/apache/pulsar.git) Contributor
 
 [![Tian Luo stats](https://github-readme-stats.vercel.app/api?username=fu-turer&include_all_commits=true&count_private=true&theme=cobalt)](https://github.com/fu-turer)
